@@ -1,5 +1,5 @@
 # Terraform Provider Artifactory
-[![Actions Status](https://github.com/atlassian/terraform-provider-artifactory/workflows/build/badge.svg)](https://github.com/atlassian/terraform-provider-artifactory/actions)
+[![Actions Status](https://github.com/atlassian/terraform-provider-artifactory/workflows/build/badge.svg?branch=master&event=push)](https://github.com/atlassian/terraform-provider-artifactory/actions?query=event%3Apush)
 [![Go Report Card](https://goreportcard.com/badge/github.com/atlassian/terraform-provider-artifactory)](https://goreportcard.com/report/github.com/atlassian/terraform-provider-artifactory)
 
 ## Build the Provider
